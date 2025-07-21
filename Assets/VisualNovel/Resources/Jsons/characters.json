@@ -1,0 +1,74 @@
+{
+    "characters":
+    [
+        {
+            "name": "Tom_1",
+            "path": "Sprites/Characters/Tom_1",
+            "color": [100, 100, 100, 255],
+            "prompt": "young guy, warrior, in heavy armor, short black hair, looking at the camera, white background"    
+        },
+        {
+            "name": "Tom_2",
+            "path": "Sprites/Characters/Tom_2",
+            "color": [120, 120, 120, 255],
+            "prompt": "young guy, warrior, in heavy armor, short black hair, looking at the camera, white background"    
+        },
+        {
+            "name": "Tom_3",
+            "path": "Sprites/Characters/Tom_3",
+            "color": [140, 140, 140, 255],
+            "prompt": "young guy, warrior, in heavy armor, short black hair, looking at the camera, white background"    
+        },
+        {
+            "name": "Guardian",
+            "path": "Sprites/Characters/Guardian",
+            "color": [50, 50, 50, 255]
+        },
+        {
+            "name": "York",
+            "path": "Sprites/Characters/York",
+            "color": [150, 150, 150, 255]
+        },
+        {
+            "name": "human_men_warrior",
+            "path": "Sprites/Characters/human_men_warrior",
+            "color": [90, 90, 90, 255]
+        },
+        {
+            "name": "human_women_1",
+            "path": "Sprites/Characters/human_women_1",
+            "color": [77, 77, 77, 255],
+            "prompt": "Scandinavian beautiful barbarian human adult sexy women with large breasts, thin patchwork clothes, long blonde braids, thin waist big hips"
+        },
+        {
+            "name": "human_women_2",
+            "path": "Sprites/Characters/human_women_2",
+            "color": [77, 77, 77, 255],
+            "prompt": "Scandinavian beautiful barbarian human adult sexy women with large breasts, thin patchwork clothes, long blonde braids, thin waist big hips"
+        },
+        {
+            "name": "black_knight",
+            "path": "Sprites/Characters/black_knight",
+            "color": [90, 30, 30, 255],
+            "prompt": "Black knight in a twisted helmet, with red eyes, spikes on his shoulders"
+        },
+
+        {
+            "name": "dark_elf_women",
+            "reverse": true,
+            "path": "Sprites/Characters/dark_elf_women",
+            "color": [60, 60, 60, 255]
+        },
+        {
+            "name": "elf_girl",
+            "reverse": true,
+            "path": "Sprites/Characters/elf_girl",
+            "color": [170, 170, 170, 255]
+        },
+        {
+            "name": "human_women_green",
+            "path": "Sprites/Characters/human_women_green",
+            "color": [100, 150, 100, 255]
+        }
+    ]
+}

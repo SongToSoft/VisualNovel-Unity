@@ -1,0 +1,34 @@
+{
+    "id": "dialog_1",
+    "location": "village",
+    "replicas": [
+        {
+            "character": "Tom_1",
+            "text": "Dialog 1 text 1"
+        },
+        {
+            "character": "Guardian",
+            "text": "Dialog 1 text 2"
+        },
+        {
+            "character": "human_women_1",
+            "text": "Dialog 1 text 3"
+        },
+        {
+            "character": "human_men_warrior",
+            "text": "Dialog 1 text 4"
+        },
+        {
+            "character": "human_women_green",
+            "text": "Dialog 1 text 13"
+        },
+        {
+            "commands": [
+                {
+                    "command": "makeChoice",
+                    "commandArg": "choice_0"
+                }
+            ]
+        }
+    ]
+}

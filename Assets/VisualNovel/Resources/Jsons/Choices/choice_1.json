@@ -1,0 +1,17 @@
+{
+	"id": "choice_1",
+	"buttons": [
+		{
+			"decisionId": "decision1Btn0",
+			"text": "Choice 1 Load Dialog 0",
+			"command": "loadDialog",
+			"commandArg": 0
+		},
+		{
+			"decisionId": "decision1Btn1",
+			"text": "Choice 1 Load Dialog 1",
+			"command": "loadDialog",
+			"commandArg": 1
+		}
+	]
+}

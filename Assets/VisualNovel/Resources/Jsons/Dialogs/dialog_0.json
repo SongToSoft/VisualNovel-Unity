@@ -1,0 +1,116 @@
+{
+    "id": "dialog_0",
+    "location": "dungeon",
+    "replicas": [
+        {
+            "character": "Tom_1",
+            "text": "Dialog 0 text 1",
+            "commands": [
+                {
+                    "command": "setTextDelay",
+                    "commandArg": "0,12"
+                },
+                {
+                    "command": "startLocationAnimate"
+                }
+            ]
+        },
+        {
+            "character": "Guardian",
+            "text": "Dialog 0 text 2"
+        },
+        {
+            "character": "human_women_1",
+            "text": "Dialog 0 text 3",
+            "commands": [
+                {
+                    "command": "setTextDelay",
+                    "commandArg": "0,02"
+                }
+            ]
+        },
+        {
+            "character": "human_men_warrior",
+            "text": "Dialog 0 text 4"
+        },
+        {
+            "character": "York",
+            "text": "Dialog 0 text 5",
+            "commands": [
+                {
+                    "command": "setLocation",
+                    "commandArg": "village"
+                },
+                {
+                    "command": "setCharacterVisible",
+                    "commandArg": "false"
+                }
+            ]
+        },
+        {
+            "commands": [
+                {
+                    "command": "openMessageBox",
+                    "commandArg": "You found something strange. You can try touch it, but you can't."
+                }
+            ]
+        },
+        {
+            "character": "York",
+            "text": "Dialog 0 text 6"
+        },
+        {
+            "commands": [
+                {
+                    "command": "openHook",
+                    "commandArg": "Sprites/Hooks/iron_sword"
+                },
+                {
+                    "command": "setCharacterVisible",
+                    "commandArg": "true"
+                }
+            ]
+        },
+        {
+            "character": "elf_girl",
+            "text": "Dialog 0 text 7",
+            "commands": [
+                {
+                    "command": "stopLocationAnimate"
+                }
+            ]
+        },
+        {
+            "character": "human_women_2",
+            "text": "Dialog 0 text 8"
+        },
+        {
+            "character": "Guardian",
+            "text": "Dialog 0 text 9"
+        },
+        {
+            "character": "black_knight",
+            "text": "Dialog 0 text 10"
+        },
+        {
+            "character": "human_men_warrior",
+            "text": "Dialog 0 text 11"
+        },
+        {
+            "character": "human_women_green",
+            "text": "Dialog 0 text 12"
+        },
+        {
+            "character": "human_women_green",
+            "text": "Dialog 0 text 13"
+        },
+        {
+            "commands": [
+                {
+                    "command": "loadDialog",
+                    "commandArg": "dialog_1"
+                }
+            ]
+        }
+    ]
+}

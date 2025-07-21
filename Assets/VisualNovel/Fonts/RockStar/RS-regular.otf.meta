@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: cf0264f549c65ae4bb32c3a4912a2be0
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - RockStar
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0bd8089c3df359349b676587bbef28d2, type: 3}
+  - {fileID: 12800000, guid: f1131326260a44449b5743bfcd416779, type: 3}
+  - {fileID: 12800000, guid: a1db17ee27ab82747bd056defa1b4f0a, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
