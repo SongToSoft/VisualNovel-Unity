@@ -5996,12 +5996,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e22ee9b478644cc41bc6e241d33fc802, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_characterMiddleImage: {fileID: 921637731}
+  m_characterMiddleImage: {fileID: 0}
   m_characterRightImage: {fileID: 723940903}
-  m_fadeEnabled: 0
+  m_fadeEnabled: 1
   m_animationDuration: 1
   m_movementDistance: 2
-  m_fadeSpeed: 2
+  m_fadeSpeed: 0.01
 --- !u!4 &1443671881
 Transform:
   m_ObjectHideFlags: 0
